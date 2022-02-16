@@ -13,6 +13,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 * Creado por el increible equipo de platzi team
 * Incluye ejemplos de linux
+* Disponible para todas las edades
 
 
 
